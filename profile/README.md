@@ -1,4 +1,2 @@
-# ![HomeScale](https://raw.githubusercontent.com/HomeScaleCloud/homescale/refs/heads/main/media/homescale-banner.png)
-
-### Enterprise-grade infrastructure, built for homelab
+# ![HomeScale](https://github.com/HomeScaleCloud/homescale/blob/main/media/homescale-banner.png?raw=true)
 See the main repo [here](https://github.com/HomeScaleCloud/homescale).
